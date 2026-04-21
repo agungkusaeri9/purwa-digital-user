@@ -32,7 +32,8 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
-docker-compose.prod.yml
+.docker/.env*
+.docker/docker-compose.prod.yml
 
 # vercel
 .vercel
